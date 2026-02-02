@@ -22,6 +22,10 @@
 - Python 3.8+
 - Antigravity coding agent access
 
+remove windows restriction from virtual environment: 
+
+```Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser```
+
 ---
 
 ### 📦 Requirements.txt
